@@ -7,7 +7,8 @@ Few-Shot Learning. This code is based on the Leveraging the Feature Distribution
 
 
 
-
+## Useage
+Please download features from [here](https://drive.google.com/file/d/1DHaCd0owzHHPEn_0Z3vfg15Q3slBJnLy/view?usp=sharing)
 
 ## References
 [Leveraging the Feature Distribution in Transfer-based Few-Shot Learning](https://arxiv.org/pdf/2006.03806.pdf)
