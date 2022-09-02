@@ -1,5 +1,4 @@
-# EASE: Unsupervised Discriminant Subspace Learning for Transductive
-Few-Shot Learning
+# EASE: Unsupervised Discriminant Subspace Learning for Transductive Few-Shot Learning
 
 This repository is the official implementation of EASE: Unsupervised Discriminant Subspace Learning for Transductive
 Few-Shot Learning. This code is based on the Leveraging the Feature Distribution in Transfer-based Few-Shot Learning
